@@ -5,6 +5,10 @@ build/
 dist/
 wheels/
 *.egg-info
-
+.env
 # Virtual environments
 .venv
+
+# UV lock file (regenerated from pyproject.toml)
+uv.lock
+

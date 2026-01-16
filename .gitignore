@@ -12,3 +12,4 @@ wheels/
 # UV lock file (regenerated from pyproject.toml)
 uv.lock
 
+".env" 

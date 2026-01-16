@@ -1,0 +1,51 @@
+episode_id,medication_name,frequency,classification,reason,patient_id
+5001,Saline Nasal 0.65 % spray aerosol,2 TIMES DAILY,Respiratory Therapy Agents,CONGESTION,1001
+5001,Juven (with collagen) 7 gram-7 gram-1.5 gram oral powder packet,2 TIMES DAILY,Electrolyte Balance-Nutritional Products,WOUND HEALING ,1001
+5001,"Mucus DM Max ER 60 mg-1,200 mg tablet,extended release",2 TIMES DAILY,Respiratory Therapy Agents,SINUS ,1001
+5001,Centrum Silver Ultra Men's 300 mcg-600 mcg-300 mcg tablet,DAILY,Electrolyte Balance-Nutritional Products,SUPPLEMENT ,1001
+5001,ferrous sulfate 325 mg (65 mg iron) tablet,DAILY,Electrolyte Balance-Nutritional Products,ANEMIA ,1001
+5001,"aspirin 81 mg tablet,delayed release",DAILY,Hematological Agents,ANTIPLATELET ,1001
+5001,"Klor-Con M20 mEq tablet,extended release",2 TIMES DAILY,Electrolyte Balance-Nutritional Products,WITH DIURETIC ,1001
+5001,gentamicin 0.1 % topical ointment,DAILY,Dermatological,WOUND CARE,1001
+5001,furosemide 40 mg tablet,2 TIMES DAILY,Cardiovascular Therapy Agents,DIURETIC ,1001
+5001,losartan 25 mg tablet,DAILY,Cardiovascular Therapy Agents,HIGH BLOOD PRESSURE ,1001
+5002,amlodipine 5 mg tablet,DAILY,Cardiovascular Therapy Agents,HTN,1002
+5002,Tums 200 mg (as calcium carbonate 500 mg) chewable tablet,2 TIMES DAILY,Gastrointestinal Therapy Agents,ACID REFLUX,1002
+5002,Miralax 17 gram oral powder packet,DAILY,Gastrointestinal Therapy Agents,CONSTIPATION ,1002
+5002,amlodipine 5 mg tablet,DAILY,Cardiovascular Therapy Agents,HTN,1002
+5002,amlodipine 5 mg tablet,DAILY,Cardiovascular Therapy Agents,HTN,1002
+5002,chlorpromazine 50 mg tablet,BEDTIME,Central Nervous System Agents,HICCUPS ,1002
+5002,atenolol 25 mg tablet,DAILY,Cardiovascular Therapy Agents,BLOOD PRESSURE ,1002
+5002,"IBgard 90 mg capsule,delayed,extended release",3 TIMES DAILY,Alternative Therapy,ABDOMINAL DISCOMFORT ,1002
+5002,levofloxacin 250 mg tablet,DAILY,Anti-Infective Agents,URINARY TRACT INFECTION ,1002
+5002,Estrace 0.01% (0.1 mg/gram) vaginal cream,EVERY 72 HOURS,Vaginal Products,VAGINAL.CREAM,1002
+5002,trimethoprim 100 mg tablet,DAILY,Anti-Infective Agents,PREVENTATIVE ,1002
+5002,Linzess 290 mcg capsule,DAILY,Gastrointestinal Therapy Agents,BOWELS,1002
+5002,tramadol 50 mg tablet,BEDTIME,"Analgesic, Anti-inflammatory or Antipyretic",SLEEP ,1002
+5002,"aspirin 81 mg tablet,delayed release",DAILY,Hematological Agents,STROKE PREVENTION ,1002
+5002,"pantoprazole 20 mg tablet,delayed release",DAILY,Gastrointestinal Therapy Agents,REFLUX,1002
+5002,cranberry extract 200 mg capsule,DAILY,Alternative Therapy,SUPPLEMENT,1002
+5002,Tylenol Extra Strength 500 mg tablet,EVERY 6 HOURS,"Analgesic, Anti-inflammatory or Antipyretic",PAIN ,1002
+5002,albuterol sulfate HFA 90 mcg/actuation aerosol inhaler,EVERY 4 HOURS,Respiratory Therapy Agents,WHEEZING ,1002
+5002,ondansetron 8 mg disintegrating tablet,2 TIMES DAILY,Gastrointestinal Therapy Agents,NAUSEA ,1002
+5002,Miralax 17 gram oral powder packet,DAILY,Gastrointestinal Therapy Agents,CONSTIPATION ,1002
+5002,tramadol 50 mg tablet,BEDTIME,"Analgesic, Anti-inflammatory or Antipyretic",SLEEP ,1002
+5002,"aspirin 81 mg tablet,delayed release",DAILY,Hematological Agents,STROKE PREVENTION ,1002
+5002,"IBgard 90 mg capsule,delayed,extended release",3 TIMES DAILY,Alternative Therapy,ABDOMINAL DISCOMFORT ,1002
+5002,trimethoprim 100 mg tablet,DAILY,Anti-Infective Agents,PREVENTATIVE ,1002
+5002,Tylenol Extra Strength 500 mg tablet,EVERY 6 HOURS,"Analgesic, Anti-inflammatory or Antipyretic",PAIN ,1002
+5002,Linzess 290 mcg capsule,DAILY,Gastrointestinal Therapy Agents,BOWELS,1002
+5002,Estrace 0.01% (0.1 mg/gram) vaginal cream,EVERY 72 HOURS,Vaginal Products,VAGINAL.CREAM,1002
+5002,amlodipine 5 mg tablet,DAILY,Cardiovascular Therapy Agents,HTN,1002
+5002,atenolol 25 mg tablet,DAILY,Cardiovascular Therapy Agents,BLOOD PRESSURE ,1002
+5002,Tums 200 mg (as calcium carbonate 500 mg) chewable tablet,2 TIMES DAILY,Gastrointestinal Therapy Agents,ACID REFLUX,1002
+5002,atenolol 25 mg tablet,DAILY,Cardiovascular Therapy Agents,BLOOD PRESSURE ,1002
+5002,levofloxacin 250 mg tablet,DAILY,Anti-Infective Agents,URINARY TRACT INFECTION ,1002
+5002,cranberry extract 200 mg capsule,DAILY,Alternative Therapy,SUPPLEMENT,1002
+5002,chlorpromazine 50 mg tablet,BEDTIME,Central Nervous System Agents,HICCUPS ,1002
+5002,albuterol sulfate HFA 90 mcg/actuation aerosol inhaler,EVERY 4 HOURS,Respiratory Therapy Agents,WHEEZING ,1002
+5002,"pantoprazole 20 mg tablet,delayed release",DAILY,Gastrointestinal Therapy Agents,REFLUX,1002
+5002,ondansetron 8 mg disintegrating tablet,2 TIMES DAILY,Gastrointestinal Therapy Agents,NAUSEA ,1002
+5002,atenolol 25 mg tablet,DAILY,Cardiovascular Therapy Agents,BLOOD PRESSURE ,1002
+5002,amlodipine 5 mg tablet,DAILY,Cardiovascular Therapy Agents,HTN,1002
+5002,atenolol 25 mg tablet,DAILY,Cardiovascular Therapy Agents,BLOOD PRESSURE ,1002
